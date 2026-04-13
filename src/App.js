@@ -1,3 +1,4 @@
+const API = "https://campus-health-api.onrender.com";
 import React, { useState } from "react";
 
 // ─── Palette & Design System ───────────────────────────────────────────────
